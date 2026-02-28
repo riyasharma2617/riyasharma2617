@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
-<h3 align="center" AI/ML Engineer building production-ready LLM applications, RAG pipelines, and intelligent multi-agent systems.</h3>
+<h3 align="center"> AI/ML Engineer building production-ready LLM applications, RAG pipelines, and intelligent multi-agent systems.</h3>
 
 <p align="center">
-AI/ML Engineer with 3+ years of experience building, fine-tuning, and deploying end-to-end Machine Learning and Generative AI systems.  
+AI/ML Engineer building, fine-tuning, and deploying end-to-end Machine Learning and Generative AI systems.  
 I specialize in LLM engineering, RAG architectures, multi-agent systems, and scalable AI infrastructure.
 </p>
 
