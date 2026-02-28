@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
-<h3 align="center">A passionate computer science engineer from India</h3>
+<h3 align="center" AI/ML Engineer building production-ready LLM applications, RAG pipelines, and intelligent multi-agent systems.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashipandey87&label=Profile%20views&color=0e75b6&style=flat" alt="rashipandey87" /> </p> -->
 
