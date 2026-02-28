@@ -1,6 +1,36 @@
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
 <h3 align="center" AI/ML Engineer building production-ready LLM applications, RAG pipelines, and intelligent multi-agent systems.</h3>
 
+<p align="center">
+AI/ML Engineer with 3+ years of experience building, fine-tuning, and deploying end-to-end Machine Learning and Generative AI systems.  
+I specialize in LLM engineering, RAG architectures, multi-agent systems, and scalable AI infrastructure.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔹 Building production-ready **LLM applications & Agentic AI systems**
+- 🔹 Designing scalable **RAG pipelines with vector databases**
+- 🔹 Fine-tuning LLMs using **SFT, LoRA, QLoRA & RLHF**
+- 🔹 Developing intelligent multi-step workflows using **LangChain, LangGraph & CrewAI**
+- 🔹 Optimizing inference pipelines for high-performance deployment
+- 🔹 Deploying AI systems with Docker, Kubernetes & AWS
+- 🏆 WOW Award Recipient – Capgemini Engineering
+
+---
+
+### 🧠 Core Expertise
+
+- **Generative AI & LLM Engineering**
+- **RAG Architecture & Agent Orchestration**
+- **Deep Learning (NLP + Computer Vision)**
+- **Diffusion Models & Image Synthesis**
+- **Model Optimization & Inference Engineering**
+- **Reinforcement Learning (RLHF & Reward Modeling)**
+- **MLOps & Cloud Deployment**
+
+---
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashipandey87&label=Profile%20views&color=0e75b6&style=flat" alt="rashipandey87" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/rashipa05613801" target="blank"><img src="https://img.shields.io/twitter/follow/rashipa05613801?logo=twitter&style=for-the-badge" alt="rashipa05613801" /></a> </p> -->
